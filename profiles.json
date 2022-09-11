@@ -1,0 +1,22 @@
+{
+	"results": [
+	  {
+		id: "1",
+		name: "Steve",
+		age: "23",
+		bio: "My name is steve",
+		location: "Phoenix",
+		lastActive: "10/20/2022",
+		image: "test",
+	  },
+	  {
+		id: "2",
+		name: "Bob",
+		age: "33",
+		bio: "My name is bob",
+		location: "California",
+		lastActive: "10/20/2019",
+		image: "test",
+	  },
+	]
+}
