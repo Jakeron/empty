@@ -1,0 +1,25 @@
+{
+  "info": {
+    "count": 2,
+    "pages": 1,
+    "prev": null
+  },
+  "results": [
+	{
+		"id": 1,
+		"name": "Steve",
+		"age": "23",
+		"bio": "My name is steve",
+		"location": "Phoenix",
+		"image": "test",
+	},
+	{
+		"id": 2,
+		"name": "Bob",
+		"age": "33",
+		"bio": "My name is bob",
+		"location": "California",
+		"image": "test",
+	},
+  ]
+}
